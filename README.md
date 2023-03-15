@@ -1,2 +1,2 @@
 # -_1
-oasis - infobyte internship task 1
+oasis - infobyte internship task 2
